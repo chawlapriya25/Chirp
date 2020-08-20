@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "Sample App for Nodejs YYC program",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chawlapriya25/Chirp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chawlapriya25/Chirp/issues"
+  },
+  "homepage": "https://github.com/chawlapriya25/Chirp#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
