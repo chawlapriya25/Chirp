@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "engines": {
-    "node": "12.18.x"
+    "node": "12.18.3"
   },
   "dependencies": {
     "bootstrap": "^4.5.1",
